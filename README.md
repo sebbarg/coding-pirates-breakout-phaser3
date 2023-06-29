@@ -1,18 +1,14 @@
-Forked from https://github.com/geocine/phaser3-rollup-typescript
+# Coding Pirates Breakout example
 
-- Added eslint and prettier
+Phaser3 port of [Phaser2 Breakout tutorial](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
 
----
+- [Typescript](https://www.typescriptlang.org/)
+- [Phaser3](https://phaser.io/)
 
-<h1 align="center">
-  <br>
-  <a href="https://github.com/geocine/phaser3-rollup-typescript#readme"><img src="https://i.imgur.com/6lcIxDs.png" alt="header" width="600"/></a>
-  <br>
-  Phaser 3 TypeScript Starter
-  <br>
-</h1>
+## Requirements
 
-This is a [Phaser 3](https://github.com/photonstorm/phaser) starter with [TypeScript](https://www.typescriptlang.org/), [Rollup](https://rollupjs.org) with ⚡️ lightning fast HMR through [Vite](https://vitejs.dev/).
+- node.js (https://nodejs.org)
+- optionally yarn (`npm install -g yarn`)
 
 ## Available Commands
 
